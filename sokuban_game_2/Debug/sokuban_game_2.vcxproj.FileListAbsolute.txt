@@ -1,0 +1,2 @@
+C:\Users\tnswh\sunjo\bit education\sokuban_game_2\Debug\sokuban_game_2.exe
+C:\Users\tnswh\sunjo\bit education\sokuban_game_2\Debug\sokuban_game_2.pdb
